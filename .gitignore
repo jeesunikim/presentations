@@ -1,7 +1,0 @@
-# Mac crap
-.DS_Store
-
-node_module/
-node_modules/
-*/node_module/
-*/node_modules/
